@@ -1,7 +1,7 @@
 # AL-HardnessRecommendation
 
 ![lc](/lc_1.png)
-Format: ![Alt Text](url)
+
 
 ## Currently supported selection strategy
 
