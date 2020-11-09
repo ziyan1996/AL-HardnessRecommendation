@@ -1,6 +1,6 @@
 # AL-HardnessRecommendation
 
-![lc](/lc_1.png =100x100)
+![lc](/lc_1.png)
 
 ## Currently supported selection strategy
 
