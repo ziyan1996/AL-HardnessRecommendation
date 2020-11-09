@@ -1,7 +1,7 @@
 # AL-HardnessRecommendation
 
-![1]({{ '/lc_1.png' | relative_url }})
-{: style="width: 300px; max-width: 100%;"}
+![lc](/lc_1.png)
+Format: ![Alt Text](url)
 
 ## Currently supported selection strategy
 
