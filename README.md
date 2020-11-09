@@ -2,7 +2,7 @@
 
 ![lc](/lc_1.png =100x)
 
-<img src="lc_1.jpg" alt="drawing" width="100"/>
+<img src="/lc_1.jpg" width="100"/>
 
 ## Currently supported selection strategy
 
