@@ -14,6 +14,8 @@ committee models: Logistic Regression, Random Forest Regressor, Support Vector R
 
 draw with replacement
 
+![qbb(/qbbagging.png)
+
 - [x] Adaptive max disagreement
 
 split subset of features
