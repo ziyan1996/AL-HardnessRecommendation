@@ -8,6 +8,8 @@
 
 committee models: Logistic Regression, Random Forest Regressor, Support Vector Regression, Gradient Boosting trees, XGB
 
+![qbc](/QBC.png)
+
 - [x] Query by bagging (entropy based)
 
 draw with replacement
@@ -15,6 +17,8 @@ draw with replacement
 - [x] Adaptive max disagreement
 
 split subset of features
+
+![amd](/qbfeatures.png)
 
 ## TBD
 
