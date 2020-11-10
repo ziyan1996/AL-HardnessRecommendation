@@ -2,7 +2,7 @@
 
 ![lc](/lc_1.png)
 
-## Currently supported selection strategy
+## Currently supported selection strategies
 
 - [x] Query by Committee
 
