@@ -5,7 +5,7 @@
 
 ## User Guide
 
-![example](/example output.png)
+![example](/output.png)
 
 ## Currently supported selection strategies (committee-based)
 
