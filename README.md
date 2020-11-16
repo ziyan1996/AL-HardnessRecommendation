@@ -1,6 +1,11 @@
 # AL-HardnessRecommendation
 
 ![lc](/lc_1.png)
+![overview](/overview.png)
+
+## User Guide
+
+![example](/example output.png)
 
 ## Currently supported selection strategies (committee-based)
 
