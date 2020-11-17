@@ -5,15 +5,16 @@
 
 ## User Guide
 
-![example](/output.png)
-
 Run this line in your command prompt:
 
 `python al_recommendation.py --pool_path /path/to/your/prediction_pool`
 
-You will get the following message if the script runs without error:
+You will get the following message, asking to choose one of the supported selection strategies:
 
 ![select](/select_strategy.png)
+
+![example](/output.png)
+
 
 ## Currently supported selection strategies (committee-based)
 
