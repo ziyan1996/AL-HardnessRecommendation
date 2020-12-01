@@ -1,6 +1,6 @@
 # AL-HardnessRecommendation
 
-![lc](/learning_curve_r2-01.png)
+![lc](/lc_2-01.png)
 ![overview](/overview.png)
 
 ## User Guide
